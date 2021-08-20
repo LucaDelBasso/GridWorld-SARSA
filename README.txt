@@ -29,3 +29,6 @@ As an example:
 
     -my heatmap code is provided in main but is commented out initially, just as an example of
     reproducing figures.
+    
+    
+    Please bare in mind that I have left these assignments as they were when the were submitted.
